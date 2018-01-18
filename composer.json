@@ -8,10 +8,16 @@
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^4.0",
         "symfony/lts": "^4@dev",
+        "symfony/maker-bundle": "^1.0",
+        "symfony/orm-pack": "^1.0",
+        "symfony/security-bundle": "^4.0",
+        "symfony/twig-bundle": "^4.0",
         "symfony/yaml": "^4.0"
     },
     "require-dev": {
-        "symfony/dotenv": "^4.0"
+        "symfony/dotenv": "^4.0",
+        "symfony/profiler-pack": "^1.0",
+        "symfony/web-server-bundle": "^4.0"
     },
     "config": {
         "preferred-install": {
@@ -52,7 +58,7 @@
     },
     "extra": {
         "symfony": {
-            "id": "01C44D2VEAF504Z29KV7B4ZW3C",
+            "id": "01C3GC88B1CZBQV6D5Q437D0D3",
             "allow-contrib": false
         }
     }
